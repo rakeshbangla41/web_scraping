@@ -4,5 +4,7 @@ Web Scraping is one such technique that is used to extract data from the interne
 
 In this project, I have scraped data from two websites:
 1) IMDB - Top 250 Movies  
-2) Amazon - HP Laptop 15s Reviews  
+2) Amazon - HP Laptop 15s Reviews
+
+I have uploaded the Python Notebooks (.ipynb files)
 
