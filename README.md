@@ -6,5 +6,5 @@ In this project, I have scraped data from two websites:
 1) IMDB - Top 250 Movies  
 2) Amazon - HP Laptop 15s Reviews
 
-I have uploaded the Python Notebooks (.ipynb files)
+I have uploaded the related Python Notebooks (.ipynb files)
 
