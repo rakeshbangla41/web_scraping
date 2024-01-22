@@ -2,3 +2,7 @@ The first step in the Data Analytics pipeline is to get the required data for an
 
 Web Scraping is one such technique that is used to extract data from the internet. In this project, I have scraped data from the internet using a Python library called “Beautiful Soup”. It is used for parsing HTML files and then extracting the required data.
 
+In this project, I have scraped data from two websites:
+1) IMDB - Top 250 Movies  
+2) Amazon - HP Laptop 15 Reviews  
+
